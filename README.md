@@ -16,4 +16,4 @@ Vous pouvez copier et modifier les applications traitées dans ce projet sur mon
 - __[Clustering des données de géolocalisation](https://github.com/saidRaiss/ML-from-theory-to-practice/blob/main/Unsupervised%20Learning/2_Semi-supervised_learning_clustering_geolocation_data.ipynb)__
 ### Deep Learning
 - __[Prédiction le prix de maison (California Housing Price)](https://github.com/saidRaiss/ML-from-theory-to-practice/blob/main/Deep%20Learning/1.MLP_California_Housing_Price.ipynb)__
-- __[Classification des images CNN](https://github.com/saidRaiss/ML-from-theory-to-practice/blob/main/Deep%20Learning/2.CNN_Image_Classification.ipynb)__book
+- __[Classification des images CNN](https://github.com/saidRaiss/ML-from-theory-to-practice/blob/main/Deep%20Learning/2.CNN_Image_Classification.ipynb)__
